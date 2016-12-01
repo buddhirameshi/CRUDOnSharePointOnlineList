@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="91cca501-b1e8-4ad5-8a26-235cbef78f6c" solutionId="91cca501-b1e8-4ad5-8a26-235cbef78f6c" resetWebServer="false" sharePointProductVersion="16.0" name="DataManager" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="3f4f5860-00b9-4b13-ad77-276a550c45ea" />
+    <featureReference itemId="b80ed29b-6a0d-490d-b31a-fade0ca815c3" />
+  </features>
+</package>
